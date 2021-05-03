@@ -11,7 +11,7 @@
     <li><a href="#decisiones-adoptadas">Decisiones adoptadas</a></li>
     <li><a href="#referencias">Referencias</a></li>
     <li><a href="#referencias">Herramientas</a></li>
-    <li><a href="#problemas-a-resolver">Herramientas</a></li>
+    <li><a href="#a-implementar">Herramientas</a></li>
     <li><a href="#resultado">Resultado</a></li>
   </ol>
 </details>
@@ -67,7 +67,10 @@ Para ayudarme en la realización de esta aplicación usé básicamente la API qu
 
 * [The Book of Shaders](https://thebookofshaders.com/)
 
-## Problemas a resolver
+## A implementar
+
+Poder realizar un triángulo tanto de lado positivo como negativo además de que se pueda cambiar de color la figura o poder realizar más figuras.
+
 ## Resultado
 
 Añado un GIF con el resultado de la aplicación final.
