@@ -67,7 +67,7 @@ Para ayudarme en la realización de esta aplicación usé básicamente la API qu
 
 * [The Book of Shaders](https://thebookofshaders.com/)
 
-## 
+## Problemas a resolver
 ## Resultado
 
 Añado un GIF con el resultado de la aplicación final.
