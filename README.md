@@ -11,7 +11,7 @@
     <li><a href="#decisiones-adoptadas">Decisiones adoptadas</a></li>
     <li><a href="#referencias">Referencias</a></li>
     <li><a href="#referencias">Herramientas</a></li>
-    <li><a href="#a-implementar">Herramientas</a></li>
+    <li><a href="#a-implementar">A implementar</a></li>
     <li><a href="#resultado">Resultado</a></li>
   </ol>
 </details>
