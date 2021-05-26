@@ -26,7 +26,7 @@ El autor de este proyecto es el estudiante Alejandro Daniel Herrera Cárdenes pa
 
 ## Trabajo realizado
 
-El trabajo se basa en conocer y entender el uso de los shaders, esta vez usando el shader de vértices realizando un triángulo pudiéndolo deformar con el ratón.
+El trabajo se basa en conocer y entender el uso de los shaders, esta vez usando el shader de vértices realizando un triángulo pudiéndolo deformar con el ratón. Me ayudé de esta referencia de [The Book of Shaders:Shapes](https://thebookofshaders.com/07/?lan=es) añadiendo mas funcionalidades.
 
 ## Decisiones adoptadas
 
