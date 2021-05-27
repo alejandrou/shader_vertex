@@ -33,7 +33,7 @@ El trabajo se basa en conocer y entender el uso de los shaders, esta vez usando 
 Las mayores decisiones tomadas y las que mas pruebas requirieron fue ajustar el shader de vértices con la creación del triángulo
 
 
-* Método que permite crear los planetas con forma de esfera que luego permitirá cargar las imágenes con la función setTexture().
+* Método que permite crear los vértices del triángulo equilátero
   ```
   void draw() {
     off=norm( mouseX, 0, width );
