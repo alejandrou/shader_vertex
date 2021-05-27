@@ -53,7 +53,7 @@ Las mayores decisiones tomadas y las que mas pruebas requirieron fue ajustar el 
  
     resetShader();
   }
- <p align="center"><img src="images/triangulo_shader.png" alt="Escena" width="500" height="500"></br>Pantalla final</p>
+ <p align="center"><img src="images/captura_triangle.png" alt="Escena" width="500" height="500"></br>Pantalla final</p>
  
 
 
@@ -76,4 +76,4 @@ Poder realizar un triángulo tanto de lado positivo como negativo además de que
 Añado un GIF con el resultado de la aplicación final.
 
   * Resultado
-  <p align="center"><img src="images/Dibujo_Shader.gif" alt="Figura" width="500" height="500"></br>Gif resultado final</p>
+  <p align="center"><img src="images/shader_triangle.gif" alt="Figura" width="500" height="500"></br>Gif resultado final</p>
