@@ -36,19 +36,21 @@ Las mayores decisiones tomadas y las que mas pruebas requirieron fue ajustar el 
 * Método que permite crear los vértices del triángulo equilátero
   ```
   void draw() {
-    off=norm( mouseX, 0, width );
+    float aux =0;
+    aux=norm(mouseX, 0, width );
+    background(0, 0);
  
     shader(shdr);
  
-    t = createShape();
-    t.beginShape();
-    t.vertex( 0.0+off, 0.5, 0.0f, 0.0f, 1.0f );   
-    t.vertex( 0.5f, -0.5f, 0.0f,  1.0f, 1.0f );   
-    t.vertex(-0.5f, -0.5f, 0.0f, 1.0f, 1.0f );   
-    t.endShape();
+    triangle = createShape();
+    triangle.beginShape();
+    triangle.vertex( 0.0+aux, 0.5, 0.0f, 0.0f, 1.0f );   
+    triangle.vertex( 0.5f, -0.5f, 0.0f,  1.0f, 1.0f );   
+    triangle.vertex(-0.5f, -0.5f, 0.0f, 1.0f, 1.0f );   
+    triangle.endShape();
   
     pushMatrix();
-    shape(t, 0, 0);
+    shape(triangle, 0, 0);
     popMatrix();
  
     resetShader();
